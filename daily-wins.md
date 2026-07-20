@@ -26,3 +26,6 @@ A simple tracker of daily progress, learning, and achievements.
 - Commit
 - Streak maintained beautifully.
 **so its 20th june 2026**
+**yo it was 7.20 when we started **
+  **the given time is 24 hrs **
+    **but i want in less time **
