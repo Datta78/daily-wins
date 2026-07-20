@@ -32,3 +32,4 @@ A simple tracker of daily progress, learning, and achievements.
 
 **day changes and life with it 
 date 21 **
+**about me 
