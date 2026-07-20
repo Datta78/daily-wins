@@ -29,3 +29,6 @@ A simple tracker of daily progress, learning, and achievements.
 **yo it was 7.20 when we started **
   **the given time is 24 hrs **
     **but i want in less time **
+
+**day changes and life with it 
+date 21 **
