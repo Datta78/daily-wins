@@ -25,3 +25,4 @@ A simple tracker of daily progress, learning, and achievements.
 - Add new date section
 - Commit
 - Streak maintained beautifully.
+**so its 20th june 2026**
