@@ -1,4 +1,4 @@
-9# My Daily Wins - Dattatray Bhosale
+339# My Daily Wins - Dattatray Bhosale
 
 A simple tracker of daily progress, learning, and achievements.
 
@@ -35,3 +35,5 @@ date 21 **
 **about me :-**
   I'm D 
   today we did learn about git and GitHub more about it 
+
+to day was awesome 
