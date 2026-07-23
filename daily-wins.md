@@ -31,7 +31,6 @@ A simple tracker of daily progress, learning, and achievements.
     **but i want in less time **
 
 **day changes and life with it 
-date 21 **
 **about me :-**
 
 id some good research for myself and my projects 
