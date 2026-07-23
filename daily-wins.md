@@ -33,6 +33,4 @@ A simple tracker of daily progress, learning, and achievements.
 **day changes and life with it 
 **about me :-**
 
-id some good research for myself and my projects 
-and also did join dn
 
