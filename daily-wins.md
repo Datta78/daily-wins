@@ -34,7 +34,6 @@ A simple tracker of daily progress, learning, and achievements.
 date 21 **
 **about me :-**
   I'm D 
-  today we did learn about git and GitHub more about it 
 
 id some good research for myself and my projects 
 and also did join dn
