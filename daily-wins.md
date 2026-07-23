@@ -36,8 +36,6 @@ date 21 **
   I'm D 
   today we did learn about git and GitHub more about it 
 
-to day was awesome 
-d
 id some good research for myself and my projects 
 and also did join dn
 
