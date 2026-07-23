@@ -37,5 +37,9 @@ date 21 **
   today we did learn about git and GitHub more about it 
 
 to day was awesome 
-did some good research for myself and my projects 
+d
+id some good research for myself and my projects 
 and also did join dn
+
+
+no tp from next day 
