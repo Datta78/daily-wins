@@ -33,7 +33,6 @@ A simple tracker of daily progress, learning, and achievements.
 **day changes and life with it 
 date 21 **
 **about me :-**
-  I'm D 
 
 id some good research for myself and my projects 
 and also did join dn
