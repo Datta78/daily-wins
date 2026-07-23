@@ -37,5 +37,3 @@ date 21 **
 id some good research for myself and my projects 
 and also did join dn
 
-
-no tp from next day 
