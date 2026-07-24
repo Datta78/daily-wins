@@ -32,5 +32,5 @@ A simple tracker of daily progress, learning, and achievements.
 
 **day changes and life with it 
 **about me :-**
-
+so did meet with some people who gave me so many good thoughts about m 
 
