@@ -21,7 +21,9 @@ A simple tracker of daily progress, learning, and achievements.
 ---
 ### 12 August 2026
 - Updated Food Order System README with proper badges and structure
+
 ### 12 August 2026
 - Improved GitHub profile README with stats and modern design
+
 ### 12 August 2026
 - Cleaned up Study Assistant README and added proper icons
