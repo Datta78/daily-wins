@@ -19,4 +19,5 @@ A simple tracker of daily progress, learning, and achievements.
 - Continue building Portfolio API
 
 ---
-
+### 12 August 2026
+- Updated Food Order System README with proper badges and structure
