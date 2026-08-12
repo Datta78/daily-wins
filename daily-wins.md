@@ -20,18 +20,3 @@ A simple tracker of daily progress, learning, and achievements.
 
 ---
 
-**How to use from phone:**
-- Open this file
-- Add new date section
-- Commit
-- Streak maintained beautifully.
-**so its 20th june 2026**
-**yo it was 7.20 when we started **
-  **the given time is 24 hrs **
-    **but i want in less time **
-
-**day changes and life with it 
-**about me :-**
-so did meet with some people who gave me so many good thoughts about making my skills up 
-was good tho
-
