@@ -26,6 +26,9 @@ A simple tracker of daily progress, learning, and achievements.
 - Improved GitHub profile README with stats and modern design
 
 ### 12 August 2026
+- Planning next improvements for Watchdog Bot and Portfolio API
+
+### 12 August 2026
 - Cleaned up Study Assistant README and added proper icons
 
 ### 12 August 2026
