@@ -1,3 +1,3 @@
-hey
+# 🔥 Daily Wins
 
-This is Dattatray Bhosale
+A simple personal progress tracker to log small daily achievements and stay consistent.
