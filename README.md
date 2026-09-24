@@ -36,3 +36,8 @@ No complicated apps — just a clean markdown file you update every day.
 - Polished Daily Wins README and made it cleaner for sharing
 - Learned how to find and contribute to real open-source “good first issues”
 - Planned next 4–5 high-impact contributions for GitHub profile
+
+## 🎯 Current Focus (This Week)
+- Make 1 real open-source PR (docs or small feature)
+- Improve Food Order System README + add demo
+- Keep logging daily wins without missing a day
